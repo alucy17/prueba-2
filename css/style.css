@@ -1,0 +1,44 @@
+#sec-carosuel{
+	text-align: center;
+	text-transform: uppercase;
+}
+#sec-carosuel h2{
+	text-align: center;
+	text-transform: uppercase;
+}
+#sec-carosuel h4{
+	text-align: center;
+	text-transform: uppercase;
+	font: bold;
+}
+#sec-carosuel h4{
+	text-align: center;
+	font-size: 15px;
+}
+#sec-about h2{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 40px;
+	color: #2F2F2F;
+}
+#seq-counter{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+#seq-counter p{
+	color: #FE8F01;
+	font: normal;
+}
+footer{
+	background: #2F2F2F;
+	text-align: center;
+	color: #fff; 
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+footer h3{
+	font-size: 15px; 
+}
